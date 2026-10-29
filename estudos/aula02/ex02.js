@@ -1,0 +1,3 @@
+//pending ainda não sabemos o resultado, está em andamento//
+//fulfilled deu certo, o valor está disponível//
+//rejected deu errado, temos um motivo de erro//
